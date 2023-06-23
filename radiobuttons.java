@@ -1,3 +1,5 @@
+when you are using a radiobutton only one can be checked
+
 <RadioButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
